@@ -1,0 +1,9 @@
+C:\Users\veliyetisgengil\source\repos\SingletonDesignPattern\SingletonDesignPattern\bin\Debug\SingletonDesignPattern.exe.config
+C:\Users\veliyetisgengil\source\repos\SingletonDesignPattern\SingletonDesignPattern\bin\Debug\SingletonDesignPattern.exe
+C:\Users\veliyetisgengil\source\repos\SingletonDesignPattern\SingletonDesignPattern\bin\Debug\SingletonDesignPattern.pdb
+C:\Users\veliyetisgengil\source\repos\SingletonDesignPattern\SingletonDesignPattern\obj\Debug\SingletonDesignPattern.csprojAssemblyReference.cache
+C:\Users\veliyetisgengil\source\repos\SingletonDesignPattern\SingletonDesignPattern\obj\Debug\SingletonDesignPattern.exe
+C:\Users\veliyetisgengil\source\repos\SingletonDesignPattern\SingletonDesignPattern\obj\Debug\SingletonDesignPattern.pdb
+C:\Users\veliyetisgengil\source\repos\SingletonDesignPattern\SingletonDesignPattern\bin\Debug\System.Data.SqlClient.dll
+C:\Users\veliyetisgengil\source\repos\SingletonDesignPattern\SingletonDesignPattern\bin\Debug\System.Data.SqlClient.xml
+C:\Users\veliyetisgengil\source\repos\SingletonDesignPattern\SingletonDesignPattern\obj\Debug\SingletonDesignPattern.csproj.CopyComplete
